@@ -1,6 +1,6 @@
-# BersamaRakyat - Political Promises Monitoring App
+# Bersama Rakyat - Political Promises Monitoring App
 
-BersamaRakyat is an Android application designed to help Indonesian citizens monitor and track political promises made by elected officials during elections (Pemilu and Pilkada). The app serves as a platform for transparent political accountability and public discourse.
+Bersama Rakyat is an Android application designed to help Indonesian citizens monitor and track political promises made by elected officials during elections (Pemilu and Pilkada). The app serves as a platform for transparent political accountability and public discourse.
 
 ## Features
 
